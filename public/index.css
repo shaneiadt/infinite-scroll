@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
+html {
+  box-sizing: border-box;
+}
+
 body {
   font-family: 'Bebas Neue', sans-serif, cursive;
+  background-color: whitesmoke;
 }
