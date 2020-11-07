@@ -10,7 +10,6 @@ const imageContainer = document.getElementById('img-container');
 const loader = document.getElementById('loader');
 
 interface Photo {
-  [key: string]: any;
   links: {
     html: string;
   };
